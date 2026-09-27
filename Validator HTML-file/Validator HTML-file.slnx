@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Validator HTML-file/Validator HTML-file.vcxproj" Id="c84585d4-2528-41e2-9258-112e3d5006a1" />
+</Solution>
